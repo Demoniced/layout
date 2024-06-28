@@ -70,3 +70,79 @@ button{
     background-color:#3882f6;
     color:white;
 }
+.main-two{
+    display:flex;
+    flex-direction:column;
+    /* flex:1; */
+    justify-content:center;
+    align-items: center;
+    /* padding:20px; */
+}
+.wut{
+    display:flex;
+    width:52.8%;
+    gap:10px;
+}
+.images{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    text-align:center;
+    justify-content: center;
+    
+}
+.information{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content: center;
+    height:400px;
+    gap:8px;
+}
+.thor{
+    width:45%;
+}
+.thors{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    height:400px;
+    background-color: #e5e7eb;
+    font-size:36px;
+    color:#1f2937;
+}
+.thor span{
+    margin-left:450px;
+}
+.action{
+    display:flex;
+    height:300px;
+    
+    align-items: center;
+    
+}
+.button-sec{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    background-color:#3882f6;
+    border-radius:10px;
+    width:1000px;
+    height:150px;
+    color:white;
+}
+.weird-butt{
+    border:solid white 2px;
+}
+.foot{
+    height:100px;
+    background-color: #1f2937;
+    width:100%;
+    
+    align-items:center;
+    display:flex;
+    justify-content: center;
+}
+footer{
+    color:white;
+}
